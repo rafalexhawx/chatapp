@@ -1,2 +1,0 @@
-# chatapp
-A chat application
